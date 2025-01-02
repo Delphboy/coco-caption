@@ -177,3 +177,4 @@ pyrightconfig.json
 
 
 pycocoevalcap/spice/tmp/
+pycocoevalcap/spice/cache/
